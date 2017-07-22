@@ -1,0 +1,3 @@
+# name offset() method with private setter and public getter 
+# Make Ad struct into a template with configurable internal object
+	- use something like setup() method to initialise its state inside Ad() 
