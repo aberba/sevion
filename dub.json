@@ -1,9 +1,9 @@
 {
-	"name": "ads-engine",
+	"name": "sevion",
 	"authors": [
-		"Lawrence"
+		"Lawrence Aberba"
 	],
 	"description": "An ad engine",
-	"copyright": "Copyright © 2017, GSAM",
-	"license": "BSL-1.0"
+	"copyright": "Copyright © 2017, Lawrence Aberba",
+	"license": "Boost 1.0"
 }
